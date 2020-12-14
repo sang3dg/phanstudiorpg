@@ -1,0 +1,38 @@
+﻿[
+    {
+        "zid" : 1,
+        "name" : "其疾如风",
+        "state" : 1,
+        "openDate" : "2016-03-24",
+        "playerCnt" : 0,
+        "maxRegister" : 5000,
+        "areaId" : 1
+    },
+    {
+        "zid" : 2,
+        "name" : "其徐如林",
+        "state" : 1,
+        "openDate" : "2016-03-24",
+        "playerCnt" : 0,
+        "maxRegister" : 5000,
+        "areaId" : 2
+    },
+    {
+        "zid" : 3,
+        "name" : "侵掠如火",
+        "state" : 1,
+        "openDate" : "2016-03-24",
+        "playerCnt" : 0,
+        "maxRegister" : 5000,
+        "areaId" : 3
+    },
+    {
+        "zid" : 4,
+        "name" : "不动如山",
+        "state" : 1,
+        "openDate" : "2016-03-24",
+        "playerCnt" : 0,
+        "maxRegister" : 5000,
+        "areaId" : 4
+    }
+]
